@@ -1,0 +1,2875 @@
+AS 3660.1 
+
+:2014
+
+>wmwachungh
+
+Termite management
+Part 1: New building work
+
+Australian
+
+Q STANDARD
+
+895.5 :23 vmﬂcmhmzm Ho: 5:950 EeEzooov tom .a< mo :o 3:51 95:35 3 ccmmwoo<
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+This Australian Standard® was prepared by Committee BD-074, Termites. It was approved
+on behalf of the Council of Standards Australia on 18 September 2014.
+This Standard was published on 5 November 2014.
+
+The following are represented on Committee BD-O74:
+
+Australian Building Codes Board
+Australian Environmental Pest Managers Association
+Australian Pesticides and Veterinary Medicines Authority
+Cement Concrete and Aggregates Australia
+CHOICE
+Forest and Wood Products Australia
+Forest Corporation of NSW
+Housing Industry Association
+Institute of Building Consultants
+Local Government and Shires Associations of New South Wales
+Master Builders Australia
+Timber Preservers Association of Australia
+Total Environment Centre
+
+This Standard was issued in draft form for comment as DR2 AS 3660.1.
+
+Standards Australia wishes to acknowledge the participation of the expert individuals that
+contributed to the development of this Standard through their representation on the
+Committee and through the public comment period.
+
+Keeping Standards up-to-date
+Australian Standards® are living documents that reflect progress in science, technology and
+systems. To maintain their currency, all Standards are periodically reviewed, and new editions
+are published. Between editions, amendments may be issued.
+
+Standards may also be withdrawn. It is important that readers assure themselves they are
+using a current Standard, which should include any amendments that may have been
+published since the Standard was published.
+
+Detailed information about Australian Standards, drafts, amendments and new projects can
+be found by visiting www.standards.org.au
+
+Standards Australia welcomes suggestions for improvements, and encourages readers to
+notify us immediately of any apparent inaccuracies or ambiguities. Contact us via email at
+mail@standards.org.au, or write to Standards Australia, GPO Box 476, Sydney, NSW 2001.
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1 
+
+:2014
+
+Australian Standard®
+
+Termite management
+Part 1: New building work
+
+First published as A8 CA43—1966.
+AS CA50 ﬁrst published 1968.
+AS CA50 revised and redesignated AS 1694—1974.
+AS CA43—1966 revised and redesignated AS 2057—1977.
+Third edition 1986.
+AS 2178 first published 1978.
+Second edition 1986.
+AS 1694—1974, AS 2057—1986 and AS 2178—1986 revised,
+amalgamated and redesignated AS 3660—1993.
+AS 3660—1993 revised and redesignated in part as AS 3660.1—1995.
+Third edition 2014.
+
+COPYRIGHT
+© Standards Australia Limited
+All rights are reserved. No part of this work may be reproduced or copied in any form or by
+any means, electronic or mechanical, including photocopying, without the written
+permission of the publisher, unless otherwise permitted under the Copyright Act 1968.
+Published by SAI Global Limited under licence from Standards Australia Limited, GPO Box
+476, Sydney, NSW 2001, Australia
+ISBN 978 1 74342 870 2
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 2
+
+PREFACE
+This Standard was prepared by the Standards Australia Committee BD-074, Termite
+Management, to supersede AS 3660.1—2000.
+The objective of this Standard is to provide builders, building designers, regulatory
+authorities, termite management system manufacturers and installers, and those people
+requiring termite management systems, with methods of termite management for
+implementation during construction of new building work.
+The objective of this revision is to update the Standard to reﬂect current needs and practices
+for termite management in new buildings and new building work.
+This Standard is part of a series on termite management, as follows:
+AS
+3660 Termite management
+3660.1 Part 1: New building work (this Standard)
+3660.2 Part 2: In and around existing buildings and structures—Guidelines
+3660.3 Part 3: Assessment criteria for termite management systems
+The terms ‘normative’ and ‘informative’ have been used in this Standard to deﬁne the
+application of the appendix to which they apply. A ‘normative’ appendix is an integral part
+of a Standard, whereas an ‘informative’ appendix is only for information and guidance.
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+3 AS 3660.1:2014
+
+CONTENTS
+
+Page
+
+FOREWORD .............................................................................................................................. 5
+SECTION 1 SCOPE AND APPLICATION
+1.1 SCOPE......................................................................................................................... 6
+1 .2 APPLICATION ........................................................................................................... 7
+1.3 NORMATIVE REFERENCES .................................................................................... 7
+1.4 DEFINITIONS AND ABBREVIATIONS ................................................................... 7
+1.5 TERMITE MANAGEMENT SYSTEMS AND THEIR COMPONENTS .................... 9
+SECTION 2 DESIGN REQUIREMENTS
+2.1 SCOPE OF SECTION ............................................................................................... 10
+2.2 ATTACHMENTS AND ITEMS ADJACENT TO BUILDINGS ............................... 10
+2.3 ELEMENTS THAT BRIDGE OR BREACH TERMITE MANAGEMENT
+SYSTEMS ................................................................................................................. 10
+2.4 POTENTIAL ENTRY POINTS FOR TERMITES .................................................... 10
+SECTION 3 REQUIREMENTS—GENERAL
+3.1 SCOPE OF SECTION ............................................................................................... 13
+3.2 STRUCTURAL ELEMENTS BELOW TERMITE MANAGEMENT SYSTEMS 13
+3.3 REQUIREMENTS FOR SUSPENDED FLOORS ..................................................... 13
+SECTION 4 REQUIREMENTS—CONCRETE SLABS
+4.1 GENERAL ................................................................................................................. 17
+4.2 CONCRETE SLABS ................................................................................................. 17
+4.3 SLAB-ON-GROUND ................................................................................................ 17
+4.4 SLAB EDGE EXPOSURE ........................................................................................ 19
+4.5 SUSPENDED SLABS ............................................................................................... 20
+SECTION 5 REQUIREMENTS—SHEET MATERIALS
+5.1 GENERAL ................................................................................................................. 2 1
+5.2 MATERIAL REQUIREMENTS ................................................................................ 21
+5.3 INSTALLATION OF SHEETING............................................................................. 22
+SECTION 6 REQUIREMENTS—GRANULAR MATERIALS
+6.1 GENERAL ................................................................................................................. 37
+6.2 MATERIAL REQUIREMENTS ................................................................................ 37
+6.3 INSTALLATION ...................................................................................................... 37
+6.4 MINERAL GRANULAR MATERIAL USED WITH POLES, POSTS OR
+STUMPS.................................................................................................................... 43
+6.5 MINERAL GRANULAR MATERIAL AT ACCESS RAMPS .................................. 44
+SECTION 7 REQUIREMENTS—CHEMICAL TERMITE MANAGEMENT SYSTEM
+7.1 GENERAL ................................................................................................................. 45
+7.2 CHEMICAL REQUIREMENTS ................................................................................ 45
+7.3 RESTRICTIONS ON AREAS OF APPLICATION................................................... 45
+7.4 SOIL PREPARATION .............................................................................................. 46
+7.5 METHOD OF APPLICATION AND INSTALLATION ........................................... 46
+7.6 STAGES OF APPLICATION.................................................................................... 47
+7.7 AREAS OF APPLICATION...................................................................................... 47
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 4
+
+APPENDICES
+A GUIDANCE ON INSTALLATION OF TERMITE MANAGEMENT SYSTEMS... 57
+B ECONOMICALLY IMPORTANT WOOD-FEEDING SPECIES OF
+SUBTERRANEAN TERMITES IN AUSTRALIA .................................................... 59
+C NATURALLY TERMITE-RESISTANT TIMBERS ................................................. 60
+D PRESERVATIVE-TREATED TIMBER ................................................................... 63
+E SOIL-SAMPLING PROTOCOL FOR TESTING HORIZONTAL AND
+VERTICAL CHEMICAL SOIL TERMITE MANAGEMENT SYSTEMS................ 64
+F BUILDING SITE MANAGEMENT .......................................................................... 68
+
+BIBLIOGRAPHY ..................................................................................................................... 69
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+5 AS 3660.1:2014
+
+FOREWORD
+This Standard is primarily concerned with providing measures to reduce the risks of
+undetected subterranean termite attack on buildings. Improving the design and construction
+of buildings to minimize termite damage is one of several risk reduction measures available
+to building owners and occupiers.
+This Standard describes measures to deter termite attack arising from concealed entry into a
+building. The system options provided rely on a combination of partial measures to termite
+passage combined with perimeter inspection zones so that when termites attack, evidence of
+their workings is in the open where it may be detected more readily during regular
+inspections. The measures contained in this Standard cannot guarantee that a building will
+never be entered by termites nor will ever suffer some form of termite attack.
+The requirements for an effective termite management system depend on design, location,
+site conditions and building characteristics.
+More than 350 species of termites have been recorded in Australia, about 30 of which
+achieve economic importance as pests of timber—in-service. With the exception of drywood
+termites, all species of economic importance are soil dwelling (subterranean) and have
+similar habits.
+Subterranean termites may eat timber and timber products, plant fibre, or any material
+containing cellulose (their principal food); this could include building contents, e.g.
+cabinetry, furniture, books and papers, fabrics, clothing, footwear, packing cases and tools.
+Termites can also damage some non-cellulose materials, e.g. mortar, soft metals, soft
+plastics such as cable insulation, building sealants and rigid foam insulation.
+Typically, termites form their nests in the soil, near ground level in a stump, in the trunk of
+a living tree or other suitably large pieces of wood. Sometimes the nest takes the form of a
+conical or dome-shaped mound. A colony may exist for many years and, as it matures, can
+have a population well in excess of one million termites. Attack by subterranean termites
+originates from the nest. Wood or timber lying on or buried in the ground may be reached
+by underground foraging galleries but attack may occur well above ground level, either
+inside the wood or by way of mud-walled shelter-tubes ‘plastered’ to exposed surfaces.
+Timber resting on an impenetrable substructure may be reached by means of these shelter
+tubes or through independent, freestanding columns built by the termites. In some cases,
+where a source of permanent moisture, e.g. leaking plumbing, is available to subterranean
+termites within a building, they can form a nest inside the building, without soil contact.
+Where such a colony arises within a building, it may be several years before the termites
+are sufficiently numerous to be detected.
+‘Drywood termites’ are economically important only in restricted coastal, tropical,
+subtropical and adjacent tableland areas of Australia. This Standard does not cover
+measures to manage the risk of drywood termite attacks. Unlike subterranean termites they
+do not construct galleries or tunnels connecting the infested timber with the soil, but form
+their nest inside the wood upon which they feed and so may attack any piece of susceptible
+timber, regardless of its position in a building. The evidence of infestation by these species
+is the presence of dry, granular faecal pellets that may be stored in disused galleries or
+ejected through small openings in the surface of the wood.
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 6
+
+STANDARDS AUSTRALIA
+Australian Standard
+Termite management
+
+Part 1: New building work
+
+SECTION 1 SCOPE AND APPLICATION
+1.1 SCOPE
+This Standard sets out requirements for the design and construction of subterranean termite
+management systems for new buildings and new building work. It includes solutions for
+both physical and chemical termite management systems. Options are provided so that
+various approaches may be used either singly, or in combination, to provide an integrated
+termite management system.
+This Standard includes methods to deter concealed entry by termites from the soil to the
+building above the termite management system inspection zone.
+This Standard does not cover procedures or details on maintenance and inspection.
+This Standard does not apply to the following:
+(a)
+(b)
+(C)
+
+The provision of termite management systems to existing buildings (see Note 3).
+Drywood termite infestations, as the systems described herein will not be effective
+against access by drywood termites or termite nests established without soil contact.
+Durability, maintenance and inspection procedures or details.
+NOTES:
+1
+
+© Standards Australia
+
+The treatment of existing buildings is covered in AS 3660.2. For the interface between new
+and existing structures, see Paragraph Al, Appendix A.
+For testing of systems and materials, refer to AS 3660.3.
+A termite management system constructed in accordance with this Standard cannot prevent
+termite attack as systems may be bridged or breached. Termite-bridged or termite-breached
+systems may be detected during inspections.
+The diagrams used in this Standard are indicative only and are deemed to meet the design
+requirements outlined in Section 2. The diagrams apply to domestic construction techniques.
+Some diagrams may have construction details (e.g. damp-proof courses, vapour barriers, and
+the like) omitted for clarity.
+Issues such as the detection of termite infestation, and the necessity and accessibility for
+regular, competent inspections can be found in AS 3660.2. It is recommended that access for
+inspection, maintenance and durability issues be considered part of the design process.
+It is stressed that the installation of a termite management system does not negate the need for
+regular competent inspections after installation.
+Activities such as turﬁng, paving and landscaping adjacent to the building might compromise
+the inspection zone clearances required by this Standard. Where it is known that these
+activities will be undertaken, the design should ensure that sufficient dimensions are provided
+so that the required minimum inspection zones are not compromised.
+Where construction is at or close to the property boundary, it may not be possible to apply the
+solutions of this Standard. See Paragraph A2, Appendix A.
+Termite management systems may not be effective where a nest is established inside the
+building above inspection zones. Such nests typically require signiﬁcant plumbing or
+drainage faults for their water supply.
+
+www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+7 AS 3660.1:2014
+
+1.2 APPLICATION
+This Standard is intended for use where subterranean termites pose an economic risk to
+buildings.
+This Standard is intended to be read in conjunction with the requirements of the pesticides
+registrar and the National Construction Code (NCC).
+
+1.3 NORMATIVE REFERENCES
+The following are the normative documents referenced in this Standard:
+NOTE: Documents referenced for informative purposes are listed in the Bibliography.
+AS
+1604 Speciﬁcation for preservative treatment
+1604.1 Part 1: Sawn and round timber
+AS
+2870 Residential slabs and footings
+3600 Concrete structures
+3660 Termite management
+3660.3 Part 3: Assessment criteria for termite management systems
+AS/NZS
+1604 Speciﬁcation for preservative treatment (series)
+4680 Hot-dip galvanized (zinc) coatings on fabricated ferrous articles
+ABCB
+NCC National Construction Code
+
+1.4 DEFINITIONS AND ABBREVIATIONS
+1.4.1 Deﬁnitions
+1.4.1.1 Breaching
+The passing of termites through a hole or gap in a termite management system.
+NOTE: Examples of breaches include the removal of a section of treated soil from a chemical soil
+termite management system, or a perforation or a disjunction in a physical management system.
+1.4.1.2 Bridging
+Termites gaining access to a structure by passing over a termite management system or
+inspection zone.
+NOTE: Termites bridging a termite management system will often construct a shelter tube, which
+reveals their passage.
+1.4.1.3 Chemical
+A substance or substances, required to be registered by the pesticides registrar, for use in a
+termite management system in accordance with the pesticides registrar’s approved label
+1.4.1.4 Chemically treated sheet
+A pesticides registrar registered sheet material treated with a chemical.
+1.4.1.5 Granular material
+Termite-resistant particles, placed to form a termite management system, which includes
+physical termite management system of mineral granules and pesticides registrar registered
+chemical termite management systems made of impregnated materials.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 8
+
+1.4.1.6 Inspection zone
+An unobstructed space over which termites have to cross or pass in order to gain access to a
+building or structure and, as a consequence, reveal their presence during visual inspection.
+1.4.1.7 Non-shrink grout
+A gap-ﬁlling concrete grout formulated to be as strong as the surrounding concrete and not
+to shrink as it cures.
+1.4.1.8 Perimeter termite management system
+A termite management system placed either external to, or within, the structure or cavity of
+an external wall.
+NOTE: A perimeter termite management system can also include a 75 mm exposed slab edge.
+1.4.1.9 Pesticides registrar
+The government body responsible for the registration of pesticides.
+NOTE: Currently, the Australian Pesticides and Veterinary Medicines Authority (APVMA)
+coordinates the registration scheme.
+1.4.1.10 Product label
+A chemical product registered by the pesticides registrar, which carries a label with speciﬁc
+approved information detailing the use of the chemical.
+1.4.1.11 Registered testing authority
+An organization providing testing services, which is either—
+(a) an organization accredited by an accreditation body that is a signatory to the ILAC
+MRA to test in the relevant ﬁeld (see Note); or
+(b) an organization recognized as being a registered testing authority under legislation at
+the time the test was undertaken.
+NOTE: In Australia, an ILAC MRA signatory is the National Association of Testing Authorities
+(NATA).
+1.4.1.12 Sheet material
+Termite-resistant planar product that is used in a termite management system.
+1.4.1.13 Termite management system
+A product or a coordinated system designed to mitigate the risk of concealed access by
+subterranean termites causing signiﬁcant damage to a structure.
+NOTE: Termite management systems are typically comprised of integrated components,
+inspection zones and inspection regime.
+1.4.1.14 Termite resistant
+The ability of materials or components to withstand the effects of termites to such an extent
+that the materials and components are not functionally impaired.
+1.4.1.15 Termite-resistant adhesive
+An adhesive/sealant of low build that is used to bond components or to bond the termite
+management system to structural components acting as a termite management system.
+1.4.1.16 Termite-resistantﬁller
+An adhesive/sealant of higher build than a termite-resistant adhesive, which functions as
+part of a termite management system, and is used to ﬁll spaces that might otherwise be
+traversed by termites.
+NOTE: The termite-resistant ﬁller is applied between the termite management system components
+or system components and structural components acting as a termite management system.
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+9 AS 3660.1:2014
+
+1.4.1.17 Termite sheet
+See sheet material.
+
+1.5 TERMITE MANAGEMENT SYSTEMS AND THEIR COMPONENTS
+Proprietary systems are not detailed in this Standard. Criteria for the assessment of termite
+management systems and components are detailed in AS 3660.3.
+Systems and components of systems not detailed in this Standard shall be assessed in
+accordance with AS 3660.3.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 10
+
+SECTION 2 DESIGN REQUIREMENTS
+2.1 SCOPE OF SECTION
+This Section sets out the design requirements for termite management systems for new
+building work.
+
+2.2 ATTACHMENTS AND ITEMS ADJACENT TO BUILDINGS
+Attachments to buildings such as downpipes and service pipes shall have a nominal gap, to
+allow clear and uninterrupted visual inspection across the inspection zone.
+Attachments and items adjacent to buildings such as steps, verandas, porches, access ramps,
+carports, trellises, decks, hot-water systems, air conditioners, downpipes, service pipes, or
+similar attachments, shall be separated from the building by a gap of at least 25 mm, to
+allow clear and uninterrupted visual inspection across the inspection zone.
+NOTE: Sufﬁcient clearance and access should be provided between any building and adjacent
+items to allow for inspection and maintenance.
+Where attachments or structures abut a building and there is no clear gap, the system shall
+be provided or extended to the attachment so that a continuous inspection zone is preserved.
+Where a plate or grid is used to cover the gap (e.g. for providing wheelchair access),
+it shall be detachable.
+
+2.3 ELEMENTS THAT BRIDGE OR BREACH TERMITE MANAGEMENT
+SYSTEMS
+Structures, fixtures or ﬁttings attached to a building shall not bridge or breach a termite
+management system unless that attachment is also provided with a termite management
+system.
+
+2.4 POTENTIAL ENTRY POINTS FOR TERMITES
+Where a suspended ﬂoor has less than a 400 mm clearance, an underﬂoor termite
+management system shall be installed to the whole of the underﬂoor area of reduced
+clearance except as permitted by Clause 3.3.2(b).
+NOTES:
+1 Where a ﬂoor is suspended, areas too low for easy access [less than 400 mm clearance,
+see Figure 3.1(A)] that have reduced airﬂow are favourable to termite activity and termites
+may build shelter tubes between the ground and bearers. These, and a selection of other
+vulnerable points, are depicted in Figure 2.1.
+2 Certain parts of buildings are at higher risk than other parts of being exploited by termites to
+gain concealed access. Cavities or discontinuities at or below exterior ground level are readily
+exploited by termites. With slab-on-ground construction these vulnerable points may include
+discontinuities in the slab (e.g. at joints and service penetrations) and mortar joints (in the
+lower courses of perimeter brick walls). Termite management systems need to be provided at
+these vulnerable points. For any particular building, the number and location of vulnerable
+areas will depend on the type of construction used.
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+11 AS 3660.1:2014
+
+DIMENSIONS IN MILLIMETRES
+FIGURE 2.1 (in part) EXAMPLES OF VULNERABLE POINTS IN BUILDINGS
+WHERE TERMITES COMMONLY GAIN CONCEALED ACCESS
+(PATH OF TERMITE ATTACK INDICATED BY ARROW)
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 12
+
+__l
+
+7 //\ //\ //x /.
+
+FIGURE 2.1 (in part) EXAMPLES OF VULNERABLE POINTS IN BUILDINGS
+WHERE TERMITES COMMONLY GAIN CONCEALED ACCESS
+(PATH OF TERMITE ATTACK INDICATED BY ARROW)
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+13 AS 3660.1:2014
+
+SECTION 3 REQUIREMENTS—GENERAL
+3.1 SCOPE OF SECTION
+This Section sets out requirements that meet the design criteria of Section 2 for speciﬁc
+termite management systems. It speciﬁes the procedures to be implemented before, and in
+association with, any building practices and installation of physical or chemical termite
+management systems including those covered in Sections 4 to 7.
+NOTES:
+1 Advice for certiﬁcation of installed termite management systems is given in Paragraph A3,
+Appendix A.
+2 A listing of subterranean termites known to damage structures is given in Appendix B.
+
+3.2 STRUCTURAL ELEMENTS BELOW TERMITE MANAGEMENT SYSTEMS
+All structural elements below the termite management system or any penetration through a
+structural element or in contact with the ground shall be termite resistant.
+NOTE: Common penetrations of structural elements include pipes, conduits, pins and wires.
+The following materials shall be deemed to be termite resistant:
+(a) Masonry—fired clay and concrete bricks, concrete blocks and stone.
+NOTE: Termites may gain entry through mortar and other joints.
+(b) Concrete elements—complying with AS 2870 or AS 3600.
+(c) Timber—complying with the following:
+(i) Naturally termite-resistant timbers listed in Appendix C.
+NOTE: When considering using timbers listed in AppendixC for use in ground
+contact, appropriate reference should be made to AS 5604. Reference was made to
+AS (AS/NZS) 1604 (series), AS 1720.2 and AS/NZS 1148 in compiling the list of
+termite-resistant timbers given in Paragraph C5, Appendix C.
+(ii) Preservative-treated timbers in accordance with AS (AS/NZS) 1604 (series) and
+speciﬁed for the appropriate hazard level in accordance with Appendix D.
+NOTE: Where preservative-treated timbers are cut, notched, or planed, the affected
+surface should be treated with a suitable remedial preservative.
+((1) Steel, aluminium or other metals.
+(e) Fibre-reinforced cement.
+(f) Unplastz‘cized polyvinyl chloride (PVC)—having a minimum thickness of 1 mm and a
+minimum hardness Shore D 80 (instantaneous).
+NOTE: The use of termite-resistant materials in contact with the ground does not in itself form a
+termite management system. Termite-resistant materials may provide termites with concealed
+access to other parts of the building.
+
+3.3 REQUIREMENTS FOR SUSPENDED FLOORS
+3.3.1 General
+This Clause (3.3) sets out requirements for buildings with suspended ﬂoors, where the
+termite management system needs to be inspected or replenished.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 14
+
+3.3.2 Access for visual inspection
+The following apply:
+(a) A minimum clearance of 400 mm between ﬁnished ground level and any structural
+components or other obstructions (e.g. bearers, joists, plumbing ﬁxtures or ducting
+systems).
+(b) The minimum clearance in Item (a) may be reduced to 150 mm at the inside face of
+an external wall, provided clearance from the ﬁnished ground level slopes to 400 mm
+within a horizontal distance not more than 2 m from the reduced clearance. Where the
+reduced clearance is applied, it shall be ensured that access for Visual maintenance is
+maintained throughout the entire suspended ﬂoor.
+NOTES:
+1 For details, see Figure 3.1(A).
+2 The risk of undetected termite access is signiﬁcantly increased where the clearance for
+inspection is reduced below 400 mm.
+3.3.3 Clearance from masonry components
+No portion of timber subﬂoor members, including bearers, joists or bottom plates, shall be
+closer than 25 mm to any vertical external masonry wall surface.
+NOTE: For details, see Figure 3.1(B).
+3.3.4 Isolated piers, posts and stumps
+Access for inspection shall be available to all isolated piers, posts and stumps, which shall
+be covered with termite sheet material complying with Section 5. Termite sheet material
+requirements shall not apply where posts, piers and stumps comply with the following
+criteria:
+(a) A vertical inspection zone of at least 75 mm is provided, and—
+(i) where concrete stumps or drawn or welded metal tubular piers are used,
+provided the piers are free from perforations, they are sealed at the top and
+access for inspection of the full perimeter of the pier or stump is available;
+(ii) where prefabricated metal piers are tightly ﬁtted to any ﬂange that complies
+with Clause 5.2 such that no gap exceeds 0.4 mm or, where any gap exceeds
+0.4 mm, they are joined as speciﬁed in Clause 5.3.11 and access for inspection
+of the full perimeter of the pier or stump is available; or
+NOTE: For details, see Figure 3.1(C).
+(iii) where timber posts are installed without ground contact, metal stirrups that
+have a continuous base are used to prevent termites passing through the base of
+the stirrup.
+NOTE: For details, see Figure 3.1(D).
+(b) Where timber posts and stumps installed in ground contact are used, they shall be
+preservative treated to minimum H5 in accordance with AS (AS/NZS) 1604 (series)
+or shall be of naturally termite-resistant timber (see Appendix C) and have sheet
+material installed to create an inspection zone.
+NOTE: Posts and piers may contain or develop cracks and defects that permit concealed
+termite access. Installation of sheet material is used to create an inspection zone.
+3.3.5 Drainage
+The ground beneath suspended ﬂoors and the external ﬁnished surface surrounding the
+external walls of the building shall be drained in accordance with the requirements of the
+National Construction Code (NCC). The subﬂoor area below a suspended ﬂoor shall be
+graded and drained to prevent ponding of water under the building. All exterior paving and
+other ground surfaces abutting external walls shall be graded to prevent water ponding
+against the building.
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+www.standards.org.au
+
+15 AS 3660.1:2014
+
+W
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 3.1(A) MINIMUM CLEARANCE FOR SLOPING SITE
+
+T
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 3.1(B) CLEARANCE FROM MASONRY COMPONENTS
+
+© Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 16
+
+J
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 3.1(C) PIERS, POSTS OR STUMPS WITH GAP AROUND VERTICAL TAB
+
+§|><| N§
+
+-
+
+I I
+
+=—g
+Wm 7"V’x“
+
+AA AB '
+
+4, 4'.
+
+AA
+4.
+
+4A -..
+
+.4 .
+
+.45
+
+.- _4
+
+4!: Ln
+4 -4
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 3.1(D) METAL STIRRUP AS ALTERNATIVE TO SHEETING FOR POSTS
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+17 AS 3660.1:2014
+
+SECTION 4 REQUIREMENTS—CONCRETE
+SLABS
+
+4.1 GENERAL
+This Section sets out requirements for concrete slabs to be used as a component of a termite
+management system to deter termites from gaining concealed access to a building.
+
+4.2 CONCRETE SLABS
+In addition to the requirements of Clause 2.2, a concrete slab or footing forming part of a
+termite management system shall—
+(a) have all interfaces between the penetrations and slab or footing provided with a
+termite management system integrated with the slab; and
+(b) have all joints, except for tied footing slab construction joints [see Figure 4.l(c)],
+provided with a termite management system integrated with the slab.
+
+4.3 SLAB-ON-GROUND
+4.3.1 General
+A slab-on-ground shall be designed and constructed in accordance with AS 2870 or
+AS 3600. All joints and penetrations shall comply with Clause 4.3.2, and the edge shall be
+exposed in accordance with Clause 4.4 or have a termite management system installed in
+accordance with Sections 5, 6 or 7.
+NOTES:
+1 Compacting and curing the concrete will enhance the performance of the slab both
+structurally and in its ability to resist penetration by termites. Thoroughly compacting
+concrete ensures that maximum density and strength is achieved by eliminating voids. It also
+provides clean, sharp edges and maximum bond to the reinforcement. For edge beams and
+footings and in locations where a smooth slab edge is required, compaction is recommended.
+2 Curing ensures that the concrete will achieve its potential strength and reduce the likelihood
+of shrinkage and cracking. Curing is the retention of moisture in the concrete to allow
+hydration of the cement.
+3 If constructed in accordance with AS 3600, due regard should be given to minimizing
+shrinkage and cracking.
+Any penetrations through concrete slabs from temporary ﬁxings, to support items such as
+formwork, shall be cleared and filled prior to the final setting of the concrete using either—
+(a) a concrete of the same strength and properties; or
+(b) a non-shrink grout of minimum strength greater than that of the concrete.
+After ﬁnal setting, any penetrations shall be ﬁlled using only a non-shrink grout equal in
+strength to that of the concrete.
+4.3.2 Joints and penetrations
+4.3.2.1 Vertical construction joints
+Vertical construction joints, regardless of whether the reinforcement is continuous through
+the joint or not, shall have a termite management system installed in accordance with
+Sections 5, 6 or 7.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 18
+
+4.3.2.2 Footing slab construction joints
+Where edge beams, stiffening beams, footing beams and retaining walls form part of the
+slab construction, and—
+(a) they are placed as an integral component of the slab, or tied together in accordance
+with AS 2870;
+(b) the surface of the footing is cleaned prior to placing the slab; and
+(c) the concrete is compacted to eliminate voids at the joint,
+termite treatment of the joint is not required.
+NOTE: Examples of footing systems not requiring joint treatment are depicted in Figure 4.1.
+In all other cases, joints at the junction/support of the slab and the horizontal joint shall
+have termite management systems installed in accordance with Sections 6, 7 or 8.
+NOTE: Examples of footing systems requiring joint treatment are depicted in Figure 4.2.
+
+_ I: —
+
+FIGURE 4.1 EXAMPLES OF FOOTING SYSTEMS REQUIRING NO JOINT TREATMENT
+
+FIGURE 4.2 EXAMPLES OF FOOTING SYSTEMS REQUIRING JOINT TREATMENTS
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+19 AS 3660.1:2014
+
+4.3.2.3 Isolation, sawn or other movement controljoints
+Where isolation, sawn or other movement control joints occur in the slab, they shall have a
+termite management system installed in accordance with Sections 5, 6 or 7.
+4.3.2.4 Penetrations
+4.3.2.4.1 General
+Penetrations through slabs such as service pipes shall be termite resistant and shall have a
+termite management system installed, or shall function as a termite management system.
+A termite management system ﬁtted to penetrations shall be—
+(a) as speciﬁed in Sections 5, 6 or 7; or
+(b) a collar.
+Additionally, service pipes set into the cavity adjacent to infill slabs shall have a termite
+management system installed in accordance with Sections 5, 6 or 7, integrated with the slab
+or perimeter termite management system.
+4.3.2.4.2 Penetration collars for use with concrete slabs
+Collars shall be embedded into the concrete or adhered to the surface using a
+termite-resistant adhesive or ﬁller in accordance with AS 3660.3. Collars shall comply with
+the material requirements of one or more of Items (b) to (f) of Clause 5.2 or be of a
+chemically treated product complying with AS 3660.3.
+Where a collar is to be embedded in a concrete slab, it shall be placed so as to sit not less
+than 40 mm from the upper surface and not closer than 50 mm to any reinforcing mesh or
+bar chair.
+NOTE: Galvanized steel is not suitable and certain products that comply with Items (d) and (e) of
+Clause 5.2 may be prone to corrosion when in contact with the alkaline concrete. Collars placed
+too high or too close to reinforcing steel or bar chairs may not achieve the required concrete
+contact.
+
+4.4 SLAB EDGE EXPOSURE
+Where slab edge exposure is used as part of a termite management system, the exposed face
+of the perimeter of the slab shall be off-the-form and shall not exhibit areas of rough
+surface, honeycombing or ripples. The slab edge shall be exposed for a minimum of 75 mm
+above ﬁnished ground, landscaping or paving level to permit ready detection of termite
+entry and shall not be rendered, tiled, clad, or concealed by vapour barrier, plastic sheeting,
+ﬂashings, adjoining structures, paving, soil or other coating or cover that might provide
+scope for concealed termite access.
+NOTES:
+1 For examples of slab edge exposure, see Figure 4.3.
+2 The purpose of slab edge exposure is to provide an inspection zone for detection of termite
+ingress.
+3 Areas of rough surface, honeycombing or ripples caused by folds of vapour barriers can
+conceal termite mud-tubes.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 20
+
+Iii s\\\\\\\\\\\‘
+
+IL
+
+A
+
+A
+
+|
+
+I
+
+[WK/[<4
+
+I __.III.1
+
+DIMENSIONS IN MILLIMETRES
+
+(a) Slab edge exposure—Vertical slab edge
+
+2<//§<//§<//§
+
+(b) Slab edge exposure—Sloped slab edge
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 4.3 EXAMPLES OF SLAB EDGE EXPOSURE
+
+4.5 SUSPENDED SLABS
+4.5.1 Design and construction
+Suspended slabs shall be designed and constructed in accordance with AS 3600.
+4.5.2 Penetration and joints
+Penetrations and joints that cannot be visually inspected shall have a physical termite
+management system installed.
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+21 AS 3660.1:2014
+
+SECTION 5 REQUIREMENTS—SHEET
+MATERIALS
+
+5.1 GENERAL
+This Section sets out the requirements for sheet materials used as a component of a termite
+management system to deter termites from gaining concealed access to a building.
+Sheets are applied to cover subfloor construction that may otherwise permit termites to gain
+concealed entry.
+This Section shall be read in conjunction with the requirements of Section 3.
+
+5.2 MATERIAL REQUIREMENTS
+Termite caps and sheeting shall be manufactured from one or more of the following
+materials:
+(a) Galvanized steel, minimum thickness 0.5 mm (see Notesl to 4). Steel shall be
+galvanized to AS/NZS 4680, and the coating class shall be at least 2275.
+(b) Sheet copper, quarter hard, minimum thickness 0.4 mm (see Notes 1, 3 and 4).
+(c) Stainless steel, half-hard, minimum thickness 0.4 mm (see Notes 1, 3 and 4).
+(d) Aluminium alloy, minimum thickness 0.5 mm (see Notes 1, 3 and 4).
+(e) Alloys of copper and zinc, minimum thickness 0.5 mm (see Notes 1, 3 and 4).
+(f) Mesh, stainless steel minimum grade 316, with a minimum molybdenum content of
+2.5% (see Notes 3 and 4). The mesh shall have an aperture size smaller than the head
+width of the termite species in the area of use. The mesh shall be tested in accordance
+with AS 3660.3.
+NOTE: Recommend maximum aperture size is reduced for parts of Northern Australia Where
+the very small species Heterotermes vagus may occur.
+(g) PVC sheeting of Shore hardness D 80 (instantaneous), minimum thickness 1.0 mm.
+(h) Chemically treated sheet tested in accordance with AS 3660.3 and registered with the
+pesticides registrar.
+Materials and dimensions not specified above shall be tested in accordance with AS 3660.3.
+NOTES:
+1 Zinc/aluminium alloy-coated steel and zinc-annealed steel are both unacceptable because they
+can readily corrode.
+2 The atmospheric conditions and the corrosive potential of some building materials, e.g. bricks
+and mortar, should be considered when selecting the sheet material to be used. Coatings such
+as bitumen or zinc chromate may be required in order to provide corrosion resistance for the
+required service life.
+3 The material selected for sheeting should not produce electrolytic corrosion when used in
+contact with other components of the building, e.g. steel framing should not be in contact
+with stainless steel.
+4 The sizes given are ‘ﬁrst choice’ (R10), see AS 2338.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 22
+
+5.3 INSTALLATION OF SHEETING
+5.3.1 General
+Where used, termite sheet materials shall be installed on all subﬂoor structures through or
+on which termites might gain concealed access, such as piers, posts, stumps and walls,
+below the underside of the lowest ﬂoor-framing member or suspended concrete slab. The
+surfaces in contact with termite sheet materials shall be free from irregularities that could
+damage the sheets.
+5.3.2 External walls
+Where used, the entire width of the external walls, including any cavities in the wall, shall
+be sheeted to the outside wall face and the sheeting shall be continuously visible at the
+exterior. When the external wall is rendered, the sheet shall be ﬁnished ﬂush with the
+outside face of the render.
+NOTE: For an example, see Figure 5.1(a).
+5.3.3 Internal foundation walls
+All internal foundation walls shall be covered with termite sheet materials. The sheet
+materials on engaged piers shall be an extension of the wall sheeting. Where crawl space
+accesses or ventilation openings have a height of less than 400 mm, sheeting shall be
+continuous over the opening. Sheet material shall project on all sides so that no edge is less
+than 40 mm from the vertical face of the pier and the edges are turned down at an angle
+from the horizontal.
+NOTES:
+1 Typical examples of the above are depicted in Figures 5.1(b) and 5.1(c).
+2 Where a sheet overhangs an edge, it may be necessary to provide support from beneath to
+ensure the minimum 40 mm overhang is retained. Any such support should—
+(a) be compatible with the sheet;
+(b) not extend beyond the sheet; and
+(c) not impede visual inspection.
+
+(a) External substructure wall
+DIMENSIONS IN MILLIMETRES
+NOTE: Where the external masonry is rendered, the external edge of the sheeting still needs to be exposed to View.
+FIGURE 5.1 (in part) TYPICAL TERMITE SHEETING
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+www.standards.org.au
+
+23
+
+(b) Suspended floors
+
+DIMENSIONS IN MILLIMETRES
+
+\E
+
+(0) Internal substructure walls
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 5.1 (in part) TYPICAL TERMITE SHEETING
+
+AS 3660.1:2014
+
+© Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 24
+
+(d) Internal substructure walls
+
+FIGURE 5.1 (in part) TYPICAL TERMITE SHEETING
+5.3.4 Suspended ﬂoors
+A sheet shall have a plane surface of size and shape to fully cover the top of the pier, post,
+or the horizontal surface of the wall. The sheet shall project on all sides so that no edge
+shall be less than 40 mm from the vertical face of the pier or wall when the edges are turned
+down at an angle from the horizontal.
+NOTE: For an example, see Figure 5.1.
+Service pipes, ties and similar connections beneath suspended ﬂoors shall not be ﬁtted
+closer than 25 mm from the edges of any sheet unless the sheet termite management system
+is extended to include the service pipe or connection.
+NOTE: For a typical treatment, see Figure 5.2.
+The sheet ﬁtted to the top of a pier, post or other subﬂoor structure shall be able to be
+visually inspected. Where access for inspection is restricted, the sheet shall be continuous
+with adjoining termite management system components.
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+25 AS 3660.1:2014
+
+DIMENSIONS IN MILLIMETRES
+NOTE: Where speciﬁc tie-downs are required to accommodate wind uplift, these details may vary, particularly in high
+wind areas.
+
+FIGURE 5.2 CLEARANCE BETWEEN SHEETING AND ANCHOR BOLTS
+5.3.5 Under slab
+Where a concrete slab is not to be termite resistant [see Clauses 3.2(b) and 4.3.1], it may be
+fully underlain with sheet material. Under-slab sheeting shall be—
+(a) placed so as to accommodate expected movements;
+(b) integrated with management system components applied to pipes and penetrations and
+any joints; and
+(c) integrated continuously with the perimeter termite management system.
+NOTE: Care should be exercised to ensure that the integrity of the sheet material is not impaired
+by levelling pegs or formwork.
+5.3.6 Concrete slab penetrations
+Where sheeting is used on a slab-penetrating pipe or service, a collar, consisting of an
+annular ﬂange of sheet material with a minimum annular width of 15 mm and minimum
+height against the pipe or service of 20 mm, shall be cast into the concrete slab or, where it
+is to be concealed beneath a permanent ﬁxture, it shall be sealed to the top surface of the
+slab with a termite-resistant adhesive tested in accordance with AS 3660.3.
+Attachment to the pipe or service shall be such that no gap is in excess of 0.4 mm. Where a
+ﬂange to be cast into a concrete slab is clamped or tied to retain position on the pipe or
+service, the clamp or tie shall be above the horizontal annulus.
+NOTES:
+1 For typical details of collar cast into concrete slab, see Figure 5.3, Options B and C.
+2 Consideration should be given to the spacing of adjacent pipes or services to allow sufﬁcient
+space for the installation of sheet to each such pipe or service.
+3 An upper surface sheet ﬂange may be protected from incidental damage if it is embedded in
+the mortar bed of tiled ﬂoor ﬁnishes, or concealed under false ﬂoors of kitchen cupboards or
+bathroom vanities.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014
+
+A . 4 V A _ 'q 4 . a .////-/////
+
+q . . . “q 4. 4.. . ‘14 .-
+
+v. a /
+
+/\\//\//\,//\//, //, /
+
+A I 3' .' 4 . ~
+
+'4 ~ 4.4 ,4_ .. .~4 7
+
+' _' A'~ <1 .4.
+
+A .
+/\\//\.//\,//\,//\,//, /
+
+~ <1
+
+<1. . ~.4 .
+
+/,\//\,//\,//\,//\,//\,/
+
+26
+
+//////////
+
+4‘1_..4
+>/\.//\,//\.//\,//\.//\
+
+A ~ . v '
+
+‘//\,//\.//\,//\,//\,//\.
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 5.3 TYPICAL DETAILS FOR THE INSTALLATION OF SHEET
+
+© Standards Australia
+
+AT SERVICE PIPE PENETRATIONS
+
+www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+27 AS 3660.1:2014
+
+5.3.7 Concrete slab joints
+Where there is a discontinuity in the slab such as a key joint or where separate slabs align,
+any sheet material shall be placed so as to accommodate the expected movement or, if not
+speciﬁed, shall be placed so as to accommodate a horizontal movement of not less than
+15 mm with not less than 35 mm contact with any slab face.
+NOTES:
+1 This change allows other than 35 mm where specified.
+2 For example, this may be achieved with a strip of stainless steel mesh with a 15 mm wide
+concertina-fold under the line of the joint placed on the vapour barrier membrane where the
+edges of the mesh are turned up a minimum of 25 mm to be cast into the slab and a strip of
+the vapour barrier membrane or similar material laid on the mesh to prevent the concrete
+slurry from bonding the concertina-fold (see Figure 5.4).
+The sheet so placed shall extend for the full length of the joint and interconnect with
+adjacent termite management system components.
+
+www.standards.org.au © Standards Australia
+
+
+www.standards.org.au
+
+AS 3660.1:2014 28
+
+8955 5:3 vmﬂcmhmzm Ho: 5:950 Esooov tom .a< mo :o 3:5... 93:35 3 cummwoo<
+
+K41K ..... X ...4 4
+
+. .... q. ,. 11m
+
+< .._\, 44. ..Y. Y,
+
+H77//.”/7/x . 4
+
+xx xx. ix.
+
+.ZZ2 ..
+
+.44 .x. . H. ._\, \.
+. v, .. n v. . v,
+
+.M. 774\\v//7\\//\/.\/
+
+.. . . ..,.1_ _._
+
+___ L_ _
+
+._ . ._ ._
+_ ..m:_ .._
+
+. 1. __ 1_
+
+. n._ __
+
+.. KK_ \ .41
+
+...\, ... _\, ._\,
+
+..7\/ . 77x\/
+
+,4. >>> _
+
+.. . .4. \/ R; Q
+
+< . v. x
+
+.. a... .. .<__.\\_NN\,&,,
+
+.1 4.... .1 11
+
+.. __ ._
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 5.4 TYPICAL DETAILS FOR SHEET AT CONCRETE SLAB JOINTS
+
+© Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+29 AS 3660.1:2014
+
+5.3.8 External walls
+5.3.8.1 General
+Sheeting applied to external walls shall extend through the wall and be continuously visible
+at the exterior.
+Where ﬂexible sheeting is installed with a fold at the corners, it shall be placed so that no
+fold opens to the wall interior.
+NOTES:
+1 For typical examples, see Figures 5.5 and 5.9.
+2 A fold that opens into a cavity or internal space may permit partially concealed access and
+hence, such folds should open to the Visible perimeter.
+5.3.8.2 External walls in conjunction with concrete ﬂoor slab
+Sheet material shall extend from the concrete slab to the exterior surface of the wall. At the
+face of the concrete, any part of the sheet that is not fully and permanently compressed
+beneath the bottom plate or other building components, such that no gap exceeds 0.4 mm,
+shall extend a minimum of 35 mm and be triple-rolled, brazed, welded or jointed using a
+termite-resistant ﬁller or termite-resistant adhesive.
+For an inﬁll slab poured against masonry, the sheet material shall extend a minimum of
+35 mm from exterior face or beyond any exposed upper edge of inﬁll (knockout) block
+[see Figure 5.5(c)].
+
+\\\[\\\&\
+
+E
+
+(a) Masonry veneer with separate strip footings
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 5.5 (in part) TYPICAL SHEET INSTALLATION TO EXTERNAL
+WALL WITH CONCRETE FLOOR SLAB
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 30
+
+///\//7// E
+
+\W. 4 .. :\///\
+
+/
+
+J. _ \m.._
+
+I — :ﬂmw._
+
+——'—'A‘Y
+
+'7 _r— 7 ""Eq!.
+
+‘-'II”IA'
+
+' ———g_ I "n"..-
+
+' A
+
+/ //\//\\\/ - \\<\<\\<\\,<\\<\\,<\\
+
+y/\\\//\.\\K\ \ v. 4“\
+
+NOTES:
+1 Slip joint not shown.
+2 Damp-proof course not shown.
+
+(c) Blockwork wall at concrete infill slab
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 5.5 (in part) TYPICAL SHEET INSTALLATION TO EXTERNAL WALL
+WITH CONCRETE FLOOR SLAB
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+31 AS 3660.1:2014
+
+/I/-":"‘
+
+‘ll/
+
+—7-IA—r‘_m _m
+
+‘___._ ‘i -;
+
+'\\\/. _ _ _ <//<//<//<//<//<//<//
+
+\\////>// -.- -.. .,
+
+/> ‘ --:.-~.
+
+NOTES:
+1 Any joints in sheet material shown draped across the cavities are not compressed.
+2 Diagram shows possible location of a sheet material comprising a free-draining mesh. Solid sheet material
+options are placed to the base of the weep-holes so as to permit water egress.
+
+(d) Perimeter walls with suspended slab
+DIMENSIONS IN MILLIMETRES
+FIGURE 5.5 (in part) TYPICAL SHEET INSTALLATION TO EXTERNAL WALL
+WITH CONCRETE FLOOR SLAB
+5.3.9 Changes in ﬂoor levels
+5.3.9.1 General
+Where ﬂoors are formed at different levels—
+(a) the sheet material shall be applied so that continuous termite management system is
+provided to each level of the building; or
+(b) where a masonry wall has sheeting placed at different levels and these cannot be
+connected, the sheets shall overlap for at least 470 mm and be separated by a break of
+at least 25 mm in the wall, provided all provisions of this Standard relating to the
+construction and the positioning of termite strip sheeting are met.
+NOTE: See Figure 5.6(a) for strip sheeting and Figures 5.6(b)(i) and 5.6(b)(ii) for ﬂexible
+sheeting.
+5.3.9.2 Sheet material applied to changes in concrete floor slab levels
+Sheet material may be applied so that a continuous termite management system is
+maintained between concrete ﬂoor slabs set at different levels.
+NOTE: For typical details, see Figure 5.6.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 32
+
+Wxs/sw ‘ .1, A
+
+/ ,
+
+/. /, \ ~,'.-‘4'_
+
+/ i
+\_ /I *
+
+!—:—ﬁ 1 \ W V
+
+I\.ﬂ-\_‘f-I . 44A //r<\/3$//\Z\//T§\//
+
+I /
+
+(a) Changes in levels of concrete slabs
+
+DIMENSIONS IN MILLIMETRES
+FIGURE 5.6 (in part) TYPICAL TERMITE SHEETING FOR VARIATIONS IN LEVEL
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+33 AS 3660.1:2014
+
+\
+
+N IXI IXI
+
+3‘KI-‘IE
+
+NOTE: Damp-proof course not shown.
+
+(b) Variations in floor levels
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 5.6 (in part) TYPICAL TERMITE SHEETING FOR VARIATIONS IN LEVEL
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 34
+
+NOTES:
+1 The installation of continuous sheeting is inherently difficult on a sloping site where the building has
+different ﬂoor levels.
+2 Damp-proof course not shown.
+
+(0) Variation in floor levels with break in wall
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 5.6 (in part) TYPICAL TERMITE SHEETING FOR VARIATIONS IN LEVEL
+5.3.10 Isolated poles, posts and stumps
+Sheet material may be applied to the base of poles, posts or stumps so as to form a sock that
+extends to a height of not less than 75 mm above ﬁnished ground or paving level. Sheet so
+used shall be jointed in accordance with Clause 5.3.11.
+NOTE: For typical details, see Figure 5.7.
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+35 AS 3660.1:2014
+
+232329:
+Q s
+Q:
+
+V V
+
+020
+
+9w
+
+92"
+
+1
+
+(
+
+29292924
+
+‘ QXQXOI A
+
+'9
+
+292
+
+AQ.
+vvvv
+
+2329'
+
+9" ‘
+
+92929292999
+
+29”
+
+929
+‘v9v
+
+9,9
+
+292
+.V
+
+92
+'V99
+
+9
+
+29
+
+29292
+9'9'9
+92929
+92929
+92929
+
+9“
+
+9292
+9'9
+929
+92929
+9999999,9999999
+929
+292929
+
+92
+V
+
+3"
+'9
+
+292
+
+6
+
+v.9
+202
+9’9
+
+929
+
+9,9
+9
+929
+9292
+
+2929
+
+V
+
+9’99
+
+0
+
+"V
+
+0
+
+020262
+'9'9’9
+{92929
+>292.
+
+,9 9
+>29292
+292929
+
+9'9-
+
+0
+IO;
+
+0'.
+
+év... .v.
+
+DIMENSIONS IN MILLIMETRES
+NOTE: To prevent water accumulation, sheet should be free-draining or porous.
+
+FIGURE 5.7 SHEET MATERIAL FORMED AS A SOCK TO A POLE (TYPICAL)
+5.3.11 Joints
+A11 joints in sheeting shall be termite resistant. Metal sheet joints that are not fully and
+permanently compressed between other building components shall be triple-rolled for a
+minimum of 10 mm, brazed welded or jointed using a termite—resistant ﬁller or
+termite-resistant adhesive.
+NOTE: For triple roll folded joint, see Figure 5.8.
+Joints in chemically treated sheet shall be overlapped by a minimum of 50 mm. Joints that
+are not fully and permanently compressed between other building components shall be
+jointed using a compatible termite-resistant filler or termite-resistant adhesive. Any
+fasteners, rivets, clips, tape or other restraints applied to a sheet shall be compatible with
+that sheet and shall be assessed in accordance with AS 3660.3 as not reducing the design
+life.
+Full and permanent compression of sheet joints may be achieved by a mass of masonry or
+blockwork such that there is no measurable gap between overlapped sheets. Sheet material
+draped across the cavity of masonry wall (if one exists) is not in a compressed state.
+
+Ek
+FIGURE 5.8 TRIPLE ROLL FOLDED JOINT (BEFORE FLATTENING)
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 36
+
+25/21/72f
+
+\ \
+
+<I'..""
+
+/§\///§\///§\///§\' '. -- g, :
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 5.9 TYPICAL DETAILS FOR STAINLESS STEEL MESH
+AT EDGE OF CONTINUOUS RAFT SLAB
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+37 AS 3660.1:2014
+
+SECTION 6 REQUIREMENTS—GRANULAR
+MATERIALS
+
+6.1 GENERAL
+This Section sets out requirements for granular materials used as a component of a termite
+management system to deter termites from gaining concealed access to a building.
+This Section shall be read in conjunction with the design criteria of Section 3.
+
+6.2 MATERIAL REQUIREMENTS
+6.2.1 Granules
+Granular material used as a termite management system shall comprise a termite-resistant
+material tested in accordance with AS 3660.3. Where a granular material is compacted it
+shall replicate the compaction to which it was tested.
+NOTES:
+1 Granular materials should be stored and handled in such a way that contamination by soil or
+organic materials is prevented.
+2 Seals or capping systems should be continuous, and able to withstand exposure and any likely
+physical disturbance while remaining in contact with the granular material beneath. The seal
+or capping system should be such that it does not itself form a hidden access path for
+termites. Capping for granular materials at construction/control joints and at slab penetrations
+should protect against removal or contamination.
+3 Capping systems may consist of concrete, bituminous material, acrylics or other plastics.
+6.2.2 Interface with sheet materials
+Sheet materials used in conjunction with granular materials shall comply with Item (f), (g)
+or (h) of Clause 5.2 or Clause 3.2(f). At their interface, sheet materials and granular
+materials shall be placed in direct contact with an overlap or penetration.
+
+6.3 INSTALLATION
+6.3.1 General
+Granular materials may be used in conjunction with other termite management systems to
+provide an integrated termite management system.
+Where used against concealed termite entry, mineral granular materials shall be placed in
+those areas to a minimum depth of 75 mm, and impregnated granular materials to a
+minimum depth of 40 mm. Granular materials shall be retained so as to remain in contact
+with the internal surfaces of the adjoining material (e. 
+
+g. masonry).
+
+NOTES:
+1 Granular materials maintain some ﬂuidity after placement such that settling of uncompacted
+granules is common.
+2 Uncompacted granules require a greater depth to achieve equivalence to compacted granules.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 38
+
+6.3.2 External walls
+Where granular materials are used internally at the perimeter of a building, the granular
+materials shall be placed in wall cavities to a minimum width of 40 mm for mineral
+granules and 25 mm for impregnated granules with a minimum compacted depth of 75 mm
+above the adjoining ﬁnished ground, landscaping or paving level. The cavity shall be clear
+of rubble and waste. Sheet material in accordance with Clause 6.2.2 shall be incorporated
+into the masonry as illustrated in Figures 6.1 with a minimum vertical penetration of 35 mm
+and a maximum vertical penetration of 50 mm into the granules. Such sheet shall pass fully
+beneath, or penetrate into, the granular materials. The sheet material shall extend through
+the wall with the external edge being visible where it deﬁnes the inspection zone. Where
+the external wall is rendered masonry, the sheet material shall be ﬁnished flush with the
+outside face of the render. Alternatively, if there is to be a control joint in the render at the
+course in which the sheet is installed, the sheet shall ﬁnish ﬂush with the masonry.
+Where the vertical face of a concrete slab or footing is honeycombed or rippled as a result
+of folds in the vapour barrier or irregular formwork, the surface shall be ﬂattened so that
+complete contact between the granules and concrete can be achieved. Contact shall be
+achieved by compacting the granular materials in situ.
+Where the granular materials are to be deeper than 150 mm, they shall be tamped in
+successive layers of not more than 100 mm.
+
+/&/W
+
+| "
+
+x/x /x/»\/x//\\t//\: . /
+
+I .. .
+
+(a) SIab-on-ground
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 6.1 (in part) DETAILS FOR GRANULAR MATERIAL PERIMETER
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+39 AS 3660.1:2014
+
+(b) Slab with separate footing
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 6.1 (in part) DETAILS FOR GRANULAR MATERIALS PERIMETER
+6.3.3 Penetrations
+Each service pipe or similar concrete slab penetration shall pass through a circular void that
+surrounds the penetration with a regular minimum clearance of 25 mm. The void shall then
+be ﬁlled with granular materials to a minimum compacted depth of 75 mm for mineral
+granular materials, or 40 mm for impregnated granular materials. It shall be retained from
+beneath the slab with a retaining ﬂange made from unplasticized PVC complying with
+Clause 3.2(f), or a similar durable, corrosion- and termite-resistant material cast into the
+underside of the slab. The top of the graded granular collar shall be capped to prevent
+granule loss or contamination.
+NOTE: For typical details, see Figure 6.2.
+Where granular materials are used around slab penetrations, the void shall be clear of
+rubble and waste, and the granular materials shall be placed in contact with the bottom and
+sides of the void. Contact shall be achieved by compacting the granular materials in situ.
+Where the granular materials are to be deeper than 150 mm, they shall be compacted in
+successive layers of not more than 100 mm.
+Granular materials are not commonly employed around pipe penetrations except where,
+post-pour, a penetrating pipe or conduit is required to be moved. In such installations, the
+edges of the cut or broken concrete shall be ﬂattened so that complete contact between the
+granular materials and concrete can be achieved. Where saw cuts are used, they shall be
+opened to permit contact with the granular material or shall be ﬁlled with a non-shrinking
+grout.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 40
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 6.2 TYPICAL DETAILS OF SERVICE PIPE PENETRATION
+USING GRANULAR MATERIALS
+6.3.4 Joints
+Where controlled concrete cracking or movement is expected, all slab joints and points
+shall be either underlain by an under-ﬂoor installation (see Clause 6.3.5) or treated with a
+granular material ﬁlled void adjoining the joint. The void shall be ﬁlled with granular
+material to a minimum compacted depth of 75 mm and a minimum width of 50 mm for
+mineral granular material, or a minimum compacted depth of 40 mm and a minimum Width
+of 25 mm for impregnated granular material. The top, bottom and ends of the resultant
+granular material shall be capped (see Clause 6.2.1) to retain integrity and to prevent egress
+of the granules. The joint below the granules shall be sealed with a joint sealant with an
+elastic recovery. The material shall not delaminate from either side of the construction or
+control joint.
+NOTE: For typical detail of granular materials at joints, see Figure 6.3.
+The termite management system formed by this process shall extend for the full length of
+the joint and interface effectively with the termite management system at the building
+perimeter.
+The cavity shall be clear of rubble and waste, and the granular materials shall be placed in
+contact with the sides of the void. Contact shall be achieved by tamping the granular
+materials in situ.
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+41 AS 3660.1:2014
+
+'q'
+
+"FAVQRVAXFS 
+
+/,/ _____
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 6.3 TYPICAL DETAILS FOR GRANULAR MATERIALS AT JOINTS
+6.3.5 Mineral granular material under slab
+Where mineral granular material is used beneath a slab-on-ground, it shall be compacted
+and installed in accordance with the following so as to cover all foundation areas:
+(a) Over-compacted bedding sand or ﬁll material more than 50 mm thick ............. 75 mm.
+(b) On sites without bedding sand or fill .............................................................. 100 mm.
+(c) On sites with compacted bedding sand or ﬁll less than 50 mm thick .............. 100 mm.
+Where slab thickenings are deeper than 150 mm, particles may be omitted.
+NOTE: For typical details, see Figure 6.4.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 42
+
+OPTION A—Compacted filI OPTION B—Natural ground
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 6.4 TYPICAL DETAILS FOR MINERAL GRANULAR MATERIALS
+AT INTERNAL REGION UNDER SLAB
+6.3.6 Mineral granular material under suspended floors
+Where a mineral granular material is used beneath an enclosed suspended ﬂoor, the
+granular material shall be at least 100 mm deep over the subﬂoor area Where the sub-ﬂoor
+clearances do not satisfy Clause 2.4.
+NOTES:
+1 For typical detail of the above, see Figure 6.4.
+2 Figure 6.5 shows a perimeter cavity treatment to suspended concrete ﬂoors.
+Where mineral granular material is laid in a subﬂoor area, the area, shall be enclosed with
+masonry, steel, aluminium, ﬁbre cement sheeting, or with plinths (including at least 50 mm
+ground clearance) and wire mesh.
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+43 AS 3660.1:2014
+
+WT
+
+I/I2)'_
+‘/I/ d-I-- iffy:
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 6.5 TYPICAL DETAILS FOR MINERAL GRANULAR MATERIAL PERIMETER
+MASONRY CAVITY WALLS WITH SUSPENDED SLAB
+
+6.4 MINERAL GRANULAR MATERIAL USED WITH POLES, POSTS OR
+STUMPS
+Where mineral granular material is used to treat poles, posts or stumps placed in the
+ground, the buried section of the pole, post or stump shall be fully encased with a nominal
+100 mm of compacted granules. The granular materials shall extend at least 50 mm above
+ﬁnished ground, landscaping or paving level.
+NOTE: For typical treatment, see Figure 6.6.
+The mineral granular materials shall be placed to the required depth, in successive layers,
+not greater than 100 mm. Where the required thickness is greater than 150 mm, each layer
+shall be compacted before placing successive layers.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 44
+
+E
+
+II
+IIIIIIIIII
+n1
+
+z,\//\,//\,//\,//\,//\,/ ‘0 //\,//\,//\,//\.//\,
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 6.6 TYPICAL DETAILS FOR MINERAL GRANULAR MATERIAL
+FOR POLES, POSTS OR STUMPS
+
+6.5 MINERAL GRANULAR MATERIAL AT ACCESS RAMPS
+Where access ramps run parallel and adjacent to an external wall of a building and the ramp
+impairs the 75 mm clearance between the top of the mineral granular material and the
+ﬁnished ground, landscaping or paving level, a minimum separation of 25 mm from the
+main structure shall be maintained. This gap may be reduced, provided, at the point where
+the ramp crosses the perimeter termite management system, the system is altered to form a
+slab joint as speciﬁed in Clause 6.3.4.
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+45 AS 3660.1:2014
+
+SECTION 7 REQUIREMENTS—CHEMICAL
+TERMITE MANAGEMENT SYSTEM
+
+7.1 GENERAL
+This Section sets out requirements for chemicals to be used as a component of a termite
+management system to deter termites from gaining concealed access to a building.
+This Section shall be read in conjunction with the requirements of Section 3.
+7.1.1 Soil chemical
+A soil chemical component system shall comply with AS 3660.3. The chemical used shall
+be registered by the pesticides registrar.
+Chemical termite management systems applied under concealed and inaccessible areas shall
+be replenishable via a reticulation system providing an even and continuous distribution of
+chemical into the soil.
+NOTES:
+1 Consideration should be given as to how the chemical will be reapplied.
+2 The chemical treatments speciﬁed in this Section are not applicable for use against
+wood-boring beetles, fungi or termites other than subterranean species.
+3 A chemical soil termite management system is most readily installed while a building is under
+construction. Application of the chemical has to be at a stage of construction when the whole
+of the subﬂoor area is readily accessible. In most cases, however, work is progressive, and
+special care should be taken to ensure that the system is complete and that each stage is well
+integrated so that no avenues of entry are left open to the termites.
+
+7.2 CHEMICAL REQUIREMENTS
+All chemical products shall be registered by the pesticides registrar and tested in
+accordance with AS 3660.3. Chemical products shall be applied in accordance with the
+pesticides registrar’s approved label.
+
+7.3 RESTRICTIONS ON AREAS OF APPLICATION
+The following restrictions apply to the installation of chemical termite management
+systems:
+(a) Drains Chemical mixtures shall not be applied directly, or in close proximity to,
+rubble and agricultural pipe drains, to prevent chemicals entering the drain.
+NOTE: Installing termite management systems may require the removal and reinstatement of
+drains, and/or the use of physical termite management systems to prevent chemicals from
+entering the drain.
+(b) Impervious surfaces Surfaces such as concrete, timber, rocks, stones, masonry or
+similar materials shall not receive direct applications of chemical. Treatment shall be
+limited to cracks, faults or joints and to the soil in contact with their perimeter.
+NOTE: Alternative measures may be necessary to provide a complete termite management
+system.
+(c) In wall cavities Chemical products described in this Section shall not be used as a
+surface treatment in wall cavities.
+((1) Concrete perimeter At a concrete perimeter, chemical products shall be applied so
+as to maintain direct contact with concrete slabs.
+NOTE: Only where a vapour barrier or damp-proof membrane is not required by the NCC can
+a chemical concrete perimeter system be used.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 46
+
+7.4 SOIL PREPARATION
+To allow the required distribution of the applied chemical and to permit percolation into the
+soil, the soil shall be prepared as follows:
+(a) Removal of contaminants All timber offcuts, building debris, removable formwork
+and other waste materials shall be removed from the area to be treated.
+(b) Clay soils, sloping sites On clay soils, the surface of the soil shall be scariﬁed along
+the contours to form furrows to a depth of not less than 50 mm to 80 mm, or a 50 mm
+minimum layer of ﬁne soil shall be used to retain the applied chemical.
+NOTE: All clumps of clay should be broken up or removed from the area. Some ﬁne soil
+should be introduced and mixed with the broken-up clay soil.
+(c) Sandy or porous soils Where loose, sandy or porous soils are dry, they shall be
+moistened with water immediately before chemical treatment to prevent loss of
+chemical through ‘piping’ or excessive percolation.
+NOTE: On clay soils, penetration is likely to be slow, and on sloping sites runoff of the
+chemical mixture is likely to occur. If the soil cannot retain a chemical, consideration should
+be given to replacing the soil.
+
+7.5 METHOD OF APPLICATION AND INSTALLATION
+7.5.1 General
+Chemical mixtures shall be applied to the soil by hand-spray or reticulation systems and in
+accordance with the rates and manner speciﬁed by the pesticides registrar and shall be
+tested in accordance with AS 3660.3.
+When applied by hand-spray, only low-pressure, high-volume spray equipment that delivers
+coarse droplets shall be used.
+7.5.2 Horizontal application
+Horizontal application shall be used to deter termites from gaining concealed vertical access
+to the substructure of the building. The area of treated soil shall—
+(a) be a minimum of 150 mm wide to a minimum depth of 50 mm, unless otherwise
+speciﬁed on the product label;
+(b) abut the substructure walls on both sides;
+(c) surround all other connections between the building and the soil;
+((1) cover all areas of subﬂoor soil where there is inadequate access (see Clause 3.3.2) or
+where there is less than 400 mm clearance; and
+(e) be continuous beneath a concrete slab-on-ground or slab-on-ﬁll.
+7.5.3 Vertical application
+Vertical application shall be used to deter termites from gaining concealed horizontal access
+to the building. The area of treated soil shall—
+(a) be at least 150 mm wide, installed to a depth 50 mm below the top of footing;
+(b) abut the substructure or substructure wall and footing;
+(c) surround all connections between the building and the soil which provide concealed
+access to the building, e.g. pipes and conduits;
+(d) adjoin horizontal termite management systems; and
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+47 AS 3660.1:2014
+
+(e) continuously surround all portions of stumps or piers that are in the ground.
+NOTES:
+1 Vertical chemical application may be installed by excavating trenches, treating the exposed
+trench, backﬁlling and treating the backﬁll.
+2 The characteristics of the site and the construction determine the most suitable method of
+application.
+3 For chemical under slab and perimeter application, see Figure 7.2.
+7.5.4 External perimeter application
+An external perimeter chemical soil application shall be a minimum of 150 mm wide X a
+minimum of 80 mm deep and extend not less than 50 mm below the lowest point where the
+construction below ground could allow concealed termite ingress (see Figures 7.8 and 7.9).
+7.5.5 Reticulation systems
+Where a reticulation system is installed, the maximum pressure to be applied in
+replenishing the system speciﬁed by the reticulation system manufacturer shall be displayed
+on the Certiﬁcate of Installation, along with the volumes of termiticides required at each ﬁll
+point.
+
+7.6 STAGES OF APPLICATION
+Treatment of particular areas shall be made after the site has been prepared in accordance
+with Clause 7.4, and at the following stages:
+(a) Where hand-spray treatments are permitted, the following shall apply:
+(i) For buildings with a suspended ﬂoor, immediately before laying the ﬂoor.
+(ii) For buildings with a slab-on-ground ﬂoor, immediately (on the same day)
+before the vapour barrier or damp proof membrane is placed.
+(iii) For external treatments, on completion of the construction when all formwork
+has been removed, services have been connected and backﬁll is in place,
+treatment shall not be performed just before or after heavy rain, unless the
+treatment can be physically protected.
+NOTE: Rain may cause leaching and runoff before the chemical has bound to the soil.
+(b) Where reticulation systems are installed and the chemical is approved for use through
+a reticulation system on the manufacturer’s product label and in accordance with
+testing under AS 3660.3, the initial under-slab treatment shall be applied as soon as
+practicable after a 28 d period following the placing of the slab.
+NOTE: The manufacturer’s product label is the label as registered by the pesticides registrar.
+
+7.7 AREAS OF APPLICATION
+7.7.1 General
+An acceptable chemical soil termite management system for the entire perimeter and
+subﬂoor, as specified in Clause 7.5, shall be deemed to have been achieved if the chemical
+is as deﬁned in Clause 1.4.1.3
+NOTES:
+1 For typical details for perimeter and under-slab applications, see Figures 7.1 and 7.2.
+2 For typical details for masonry blockwork, see Figure 7.3.
+3 For typical details for changes in ﬂoor levels, see Figure 7.4.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014
+
+7’”
+
+71;.33432!‘
+VAU— ._
+
+j!!! « --7~__7. —p
+
+f. , " .1 / x\/x\/x\/,\
+
+4 4 /
+
+”h /
+
+NOTE: Perimeter chemical application is not required if there is 75 mm min. of slab edge exposed.
+
+DIM
+
+FIGURE 7.1
+
+ENSIONS IN MILLIMETRES
+
+APPLICATION—SLAB-ON-GROUND
+
+© Standards Australia
+
+TYPICAL DETAILS FOR CHEMICAL UNDER-SLAB AND PERIMETER
+
+www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+49 AS 3660.1:2014
+
+L
+VAAAA I
+
+NOTES:
+1 Chemical to penetrate below top of footing as indicated.
+2 Where required, a step-down from the top of the slab to external weephole is to be provided.
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 7.2 TYPICAL DETAILS FOR CHEMICAL UNDER-SLAB AND PERIMETER
+APPLICATION—FOOTING SLAB
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 50
+
+X /x /x
+
+DIMENSIONS IN MILLIMETRES
+NOTE: Damp-proof course not shown.
+
+FIGURE 7.3 TYPICAL DETAILS FOR CHEMICAL APPLICATION TO MASONRY
+BLOCKWORK WALLS AND SLAB-ON-FILL
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+51 AS 3660.1:2014
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 7.4 TYPICAL DETAILS FOR CHEMICAL APPLICATION
+AT CHANGE IN LEVEL OF CONCRETE SLAB
+7.7.2 Under slab
+7.7.2.1 Area
+The area beneath concrete slabs shall be treated as follows:
+(a) Slab-on-ground Horizontal application beneath the whole slab, a minimum depth of
+50 mm or complying with Clause 7.5.
+(b) Slab-on-ﬁll Horizontal application beneath the Whole slab and vertical application
+where the building fabric remains susceptible to attack by termites.
+If the fill is in place before the treatment is commenced, all sides and the top of the ﬁll shall
+be treated.
+If cast concrete substructures and retaining walls are used, the chemical shall be continuous
+at the junctions between retaining walls and ﬂoor slab, and under the slab.
+NOTES:
+1 It may not be possible to achieve a 50 mm application at vertical faces of trenches.
+2 For typical details at internal beams when using an under-slab chemical, see Figure 7.5.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 52
+
+________\ _ .4
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 7.5 TYPICAL DETAILS FOR CHEMICAL APPLICATION
+AT INTERNAL BEAM OF SLAB-ON-GROUND
+7.7.2.2 Penetrations andjoints
+Penetrations and joints not provided with a termite management system detail to the slab
+shall be fully underlain by a horizontal application.
+NOTES:
+1 The typical treatment of service pipe penetrations and slab joints when using an under-slab
+chemical is shown in Figures 7.6 and 7.7.
+2 The treatment of ﬁll always presents a problem unless the ﬁll is placed over a bed of treated
+soil and contained within retaining walls fully surrounded by chemically treated soil
+(see Figure 7.3).
+
+I4 I . I ~ ' . <1.I“ A I<I1 4 I4. 4
+
+q q . . I I 3- I ‘ <1 I A A
+
+. -.~<,‘I4I Aq._4.- '4 '- -. IAI'I 4V” A'I: Aug I'I_I_<- —
+[N/Ikg/IXE/Ikg/Ikg/Ik: VAg/Ikg/Ikg/Ikg/IXE/IXI DI
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 7.6 TYPICAL DETAILS FOR CHEMICAL APPLICATION
+AT SERVICE PIPE PENETRATION
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+53 AS 3660.1:2014
+
+DIMENSIONS IN MILLIMETRES
+
+FIGURE 7.7 TYPICAL DETAILS FOR CHEMICAL APPLICATION AT JOINTS IN SLAB
+7.7.3 Suspended ﬂoors
+Where compliance with Clause 3.3.2 cannot be achieved, all areas of subﬂoor soil shall be
+treated.
+Horizontal application shall abut all substructure walls, stumps, piers, pipes and wastes.
+Where the building provides concealed access, vertical application shall be installed to not
+less than 50 mm below the top of the footings.
+NOTE: Typical details for chemical application for suspended ﬂoors are shown in Figures 7.8
+and 7.9.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 54
+
+<\\<\\<\ /. ‘ A .
+4 ‘- 4
+
+. .- " _‘.q-‘A
+
+.4 v .
+
+. ‘~< 4‘ -.
+
+' . <4 4 A
+
+v. _. - <~ _ _
+A -- ' "
+
+q A"- A .
+
+4 _-« ~. . «I, A 4
+
+-.A .
+
+.. A
+
+t
+
+i
+
+DIMENSIONS IN MILLIMETRES
+
+NOTES:
+1 Where sheet material is installed on top of the piers, or the like, the vertical chemical application below the
+top of the footings may be omitted.
+2 Termite management systems will not be effective where the nest is established inside the building and has
+no contact with the soil.
+
+FIGURE 7.8 TYPICAL DETAILS FOR CHEMICAL APPLICATION AT BRICK
+CAVITY WALLS WITH SUSPENDED FLOOR
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014
+
+n'n'.”'.
+
+DIMENSIONS IN MILLIMETRES
+NOTE: Slip joint not shown.
+
+FIGURE 7.9 TYPICAL DETAILS FOR CHEMICAL APPLICATION
+AT BLOCKWORK WALLS WITH SUSPENDED FLOOR
+7.7.4 Poles, posts or stumps
+Where a chemical is used around susceptible poles, posts or stumps placed in the ground in
+accessible or untreated subfloor areas, the buried section of the pole, post or stump shall be
+fully encased With a vertical application of the chemical.
+NOTE: For typical details, see Figure 7.10.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 56
+
+/x\//\,//\,//\,//\,//\,/ \/\\/\\/\\/\\/\\/»
+
+NOTE: Where a timber sole plate is used, chemically treated soil to be continued around soleplate.
+
+FIGURE 7.10 TYPICAL DETAILS FOR CHEMICAL APPLICATION
+FOR POSTS, POLES AND STUMPS
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+57 AS 3660.1:2014
+
+APPENDIX A
+GUIDANCE ON INSTALLATION OF TERMITE MANAGEMENT SYSTEMS
+(Informative)
+
+A1 INTERFACE BETWEEN NEW AND EXISTING WORK
+Building owners should be aware that this Standard may not provide adequate solutions for
+ground-ﬂoor level extensions or renovation that are connected to an existing building,
+irrespective of whether the existing building has been previously constructed in accordance
+with this Standard or its predecessors, or may not have had such provisions made. For
+termite management of an existing building, refer to AS 3660.2.
+During the design and construction process, it is recommended that consultation occurs
+between the various parties, which may include the designer, the builders, the termite
+specialist and the owner. This will ensure that termite management systems are properly
+designed and installed.
+Where a termite management system cannot be provided in accordance with this Standard,
+the limitations of the system, as installed, should be documented and supplied to the
+building owner along with a recommendation for more frequent inspections.
+
+A2 CONSTRUCTION AT OR NEAR BOUNDARY
+Where construction at or near the boundary is carried out, it may not be possible to install a
+complete management system as speciﬁed in this Standard. These situations may include
+duplexes, villas, townhouses, parapet walls, buildings with zero setbacks to an allotment
+boundary on separate title allotments, and the like.
+Where a termite management system cannot be provided on a boundary, access for
+inspection may not be available.
+Building owners should be aware that construction at or near a boundary could result in a
+greater risk of termite entry due to one or a combination of the following factors:
+(a) Concealed entry to the structure because of the specific construction methods used.
+(b) Lack of access for the installation of a termite management system during
+construction.
+(c) Lack of access for inspection and maintenance.
+((1) The actions of adjoining owners, which may compromise the effectiveness of the
+termite management after construction.
+
+A3 CERTIFICATES OF INSTALLATION
+The installers of a termite management system in accordance with this Standard should
+provide the person soliciting the work with copies of all the ‘Certiﬁcates of Installation’ in
+accordance with AS 3660.1 (this Standard) that apply to the work.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 58
+
+The Certiﬁcate of Installation includes the following:
+(a)
+
+(b)
+(C)
+(d)
+(e)
+(f)
+
+(g)
+(h)
+(i)
+
+(j)
+
+(k)
+
+(1)
+
+© Standards Australia
+
+Full details of the termite management system installed, including the following:
+(i) In the case of a chemical soil or chemical sheet termite management system, the
+name of the chemical product used, the service life on the manufacturer’s
+product label and, if applied as a liquid, the total volume used. The locations of
+chemical application with area, in metres squared, and perimeter and linear
+applications, in metres. Where a reticulation system is installed, the maximum
+pressure to be applied in replenishing the system, as speciﬁed by the
+reticulation system manufacturer, should be prominently displayed on the
+Certificate of Installation, along with the volumes of termiticides required at
+each ﬁll point.
+(ii) For a physical termite management system, the name of the system and methods
+of installation.
+NOTE: The manufacturer’s product label is the label containing information approved
+by the pesticides registrar.
+The date the work was completed.
+The extent of the termite management system provided and whether a single system
+or integrated system has been applied.
+A diagram to show the location of the termite system components.
+The installer’s or manufacturer’s speciﬁcations for the scope and frequency of future
+inspections for termite activity (see AS 3660.2).
+Any limitations to the installation of the system or the ability to maintain or inspect
+system components, which may have occurred due to the design or construction of the
+building or the requirements of the person soliciting the work.
+Advice for maintaining the termite management system, where appropriate
+(see AS 3660.2).
+Contact details for further information on the system and the installer who performed
+the installation, including the name of the person responsible for that installation.
+For concrete slabs used as part of a termite management system, the builder or
+concreter’s certiﬁcation of concrete slab compliance with AS 2870 or AS 3600. The
+type(s) of concrete slab used (e.g. raft, inﬁll, formed-void, tied, etc.) and any slab
+inclusions present, such as heater wires or pipes and sub-slab water storages in
+metres.
+Where a slab requires additional works, the number of slab penetration treatments, the
+number and total length of slab joints treated, in metres, and any works to
+discontinuities in the slabs or to the edges of slabs.
+Details of works to suspended ﬂoor, including, minimum clearance under ﬂoor, in
+millimetres, minimum clearance under ﬁxtures, in millimetres, details of grading and
+drainage to prevent ponding, the presence of subﬂoor ventilation installed in
+accordance with the NCC and the treatment applied to piers/stumps/pillars and similar
+structure.
+Works to the building perimeter, including where systems have been applied
+internally or externally, and the length of perimeter treated, in metres.
+
+www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+59 AS 3660.1:2014
+
+APPENDIX B
+ECONOMICALLY IMPORTANT WOOD-FEEDING SPECIES OF
+SUBTERRANEAN TERMITES IN AUSTRALIA
+(Informative)
+
+MAST 0TERMIT IDAE
+Mastotermes darwiniensis Froggatt
+RHIN 0 TERMI TIDAE
+Coptotermes acinaciformis acinaciformis (Froggatt)
+Coptotermes acinaciformis rajfrayi Wasmann
+Coptotermes frenchi Hill
+Coptotermes michaelseni Silvestri
+Heterotermes ferox (Froggatt)
+Heterotermes vagus (Hill)
+Heterotermes validus Hill
+Heterotermes venusz‘us (Hill)
+Schedorhinotermes actuosus (Hill)
+Schedorhinotermes breinli (Hill)
+Schedorhinotermes intermedius (Brauer)
+Schedorhinotermes seclusus (Hill)
+TERMIT IDAE
+Nasuz‘itermes exitiosus (Hill)
+Nasuz‘itermes graveolus (Hill)
+Nasutitermes walkeri (Hill)
+NOTE: The Microcerotermes are not well-known as pests; however, the genus does contain
+several economically important wood-feeding species.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 60
+
+APPENDIX C
+NATURALLY TERMITE-RESISTANT TIMBERS
+(Normative)
+
+C1 SCOPE
+This Appendix lists timbers that have a demonstrated natural resistance to subterranean
+termites in Australia.
+NOTE: The list is by no means complete and is subject to change, particularly when the resource
+varies, e.g. the production from a young fast growth plantation compared with an old growth,
+higher density resource.
+
+C2 GENERAL
+For all timbers listed in this Appendix, only the heartwood is resistant to attack by termites.
+Untreated sapwood shall be deemed to be susceptible to attack. Inner heartwood
+(nearer the pith) is considered less resistant to attack than the outer heartwood.
+NOTE: Many timbers can vary in resistance to termite attack from tree to tree as well as Within
+the same tree. In addition, the termite resistance of timber exposed above the ground may be
+superior to its resistance in the ground.
+
+C3 TERMITE RESISTANCE
+Only the timber species listed under botanical names in Paragraph C5 shall be deemed to be
+naturally termite resistant (see Note 1).
+NOTES:
+1 The common names listed in Paragraph C5 may cover one or more timber species. Species
+that are not speciﬁcally listed under botanical names are not covered by this Standard.
+2 Resistance to termites has been determined from in-ground durability tests on timber
+specimens cut from old growth trees in the presence of wood-rotting fungi. Where data from
+such tests is not available, termite resistance is based on recognized durability ratings
+obtained from many years of experience with the particular timber in service. Natural termite
+resistance of timbers is covered in AS 5604.
+3 Different timber species have different levels of resistance to various species of termite.
+Local experience should be referred to.
+4 For information on the termite resistance of imported timbers not listed in this Appendix,
+refer to Keating and Bolza (see Bibliography).
+
+C4 AVAILABILITY
+Many of the timbers listed are not commercially available but are included for those who
+have access to private supplies for minor constructions, e.g. fences and landscaping.
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014
+
+C5 LIST OF NATURALLY TERMITE-RESISTANT TIMBERS
+Botanical name
+AUSTRALIAN HARDWOODS
+Eucalypts
+Corymbia gummifera
+C. maculata
+Eucalyptus acmenoides
+E. andrewsii
+E. astringens
+E. basistoana
+E. botryoides
+E. camaldulensz's
+E. cladocalyx
+E. cloeziana
+E. considem'ana
+E. crebra
+E. eugenioides
+E ﬁbrosa subspecies ﬁbrosa
+E. gomphocephala
+E. goniocalyx
+E. haemastoma
+E. leucoxylon
+E. longifolia
+E. macrorhyncha
+E. melliodora
+E. microcorys
+E. microcarpa
+E. muelleriana
+E paniculata
+E patens
+E pilularz's
+E polyanthemos
+E punctata
+E resinifera
+E salmonophloia
+E sideroxylon
+E sphaerocarpa
+
+www.standards.org.au
+
+Common name
+
+red bloodwood
+spotted gum
+white mahogany
+New England blackbutt
+brown mallet
+coast grey box
+southern mahogany
+river red gum
+sugar gum
+Gympie messmate
+yertchuk
+narrow-leaved red ironbark
+white stringybark
+broad-leaved red ironbark
+tuart
+long-leaved box
+Scribbly gum
+yellow gum
+woollybutt
+red stringybark
+yellow box
+tallowwood
+grey box
+yellow stringybark
+grey ironbark
+W.A. blackbutt
+blackbutt
+red box
+grey gum
+red mahogany
+salmon gum
+red ironbark
+Blackdown stringybark
+
+© Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014
+
+Botanical name
+AUSTRALIAN HARDWOODS (cont’d)
+E. tereticornis
+E. wandoo
+Non-eucalypts
+Acacia acuminata
+A. harpophylla
+Allocasuarina luehmannii
+Lophostemon confertus
+L. suaveolens
+Syncarpia glomulifera
+S. hillii
+Xanthostemon chrysanthus
+X. whitei
+AUSTRALIAN NATIVE SOFTWOODS
+Athrotaxis selaginoides
+Callitris endlicheri
+C. glaucophylla
+Lagarostrobos franklinii
+Phyllocladus asplem'folius
+IMPORTED HARDWOODS
+Intsia bijuga
+Pterocarpus indicus
+Tectona grandis
+Shorea albida
+IMPORTED SOFTWOODS
+Chamaecyparis nootkatensis
+Sequoia sempervirens
+Thuja plicata
+Pinus caribaea
+P. elliottii
+
+62
+
+Common name
+
+forest red gum
+wandoo
+
+raspberry jam
+brigalow
+bulloak
+brush box
+swamp box
+turpentine
+satinay
+brown penda
+red penda
+
+King William pine
+black cypress pine
+cypress
+huon pine
+celery-top pine
+
+kwila (merbau)
+New Guinea rosewood
+Burmese teak
+alan batu red light (maranti)
+
+nootka cypress
+redwood
+western red cedar
+Carribean pine
+slash pine
+NOTE: Botanical names of timbers may be superseded with more scientiﬁcally correct names.
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+63 AS 3660.1:2014
+
+APPENDIX D
+PRESERVATIVE-TREATED TIMBER
+(Normative)
+
+D1 GENERAL
+This Appendix speciﬁes the preservative treatment levels to protect timber from termite
+infestation. It shall be read in conjunction with the requirements of Section 3.
+
+D2 PRESERVATIVE TREATMENT
+Preservative treatment shall be in accordance with the AS (AS/NZS) 1604 series of
+Standards. The treatment shall provide penetration and retention of an approved
+preservative for the appropriate hazard level as described in the AS (AS/NZS) 1604 series.
+The speciﬁed hazard levels are as follows:
+(a) Interior, above the ground ......................................................................................H2.
+(b) Exterior, above the ground .....................................................................................H3.
+(c) Exterior, in ground contact ........................................................................H4 and H5.
+NOTE: All cuts, drill holes, notches and planed surfaces will need to be retreated to prevent
+termite entry.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 64
+
+APPENDIX E
+SOIL-SAMPLING PROTOCOL FOR TESTING HORIZONTAL AND VERTICAL
+CHEMICAL SOIL TERMITE MANAGEMENT SYSTEMS
+(Normative)
+
+E1 GENERAL
+Where testing to determine the compliance of horizontal and vertical chemical soil termite
+management systems with label directions is to be undertaken, the protocol specified in this
+Appendix shall be used.
+For the purposes of this protocol, soil shall include sand and clay.
+NOTE: This protocol only provides the methodology for assessing whether a particular site has
+received the total amount of termiticide required to be applied to an area. It is intended for use
+within ﬁve days of application. It assumes an application has been made to the entire area
+requiring treatment.
+
+E2 SAMPLING PROCEDURE
+E2.1 Sampling tool
+A coring tool consisting of a metal pipe With an internal diameter of approximately 30 mm
+shall be used to collect soil samples. For sampling horizontal applications, a ﬂange, welded
+75 mm from the penetrating end of the tool, shall be used to maintain a uniform depth of
+penetration.
+E2.2 Sampling method
+The rate of application of termiticide in horizontal and vertical chemical application shall
+be determined by taking composite samples, as follows:
+(a) Horizontal application:
+(i) Under slab Following application of chemical, divide the treated area into a
+conceptual grid of non-overlapping 2 m X l m cells. Number cells from one to
+the maximum number of units at the site. Allocate an additional cell number to
+cells that lie along the slab perimeter and those that include penetrations.
+Use a table of non-repeating random numbers to generate a sample of
+15 different cells (i.e. no repetition) to be used as sampling units. Make up
+composite samples from cores taken from each of these units. Cores shall be
+taken perpendicularly from the horizontal surface of the selected sampling units
+to a depth of 75 mm.
+Sites shall not be sampled until the chemical has completely penetrated the
+bedding material and no pools remain on the surface. Two composite samples
+(A and B) shall be taken from each site.
+After taking samples, ensure that the integrity of the chemical and vapour
+barrier (if present) is restored.
+NOTE: For post-construction under-slab sampling, slab drilling will be necessary
+before sampling takes place. Most of the termiticide residue is to be found in the upper
+1—2 cm of the bedding material. Therefore, it is important to avoid dislodging any of
+this material when removing or drilling the slab.
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+65 AS 3660.1:2014
+
+(ii) Perimeter Take two samples from each designated treatment site (e.g. the slab
+perimeter, the inner foundation wall, the outer foundation wall and the
+foundation pier). Each sample shall be a composite of eight individual cores,
+obtained at the rate of two cores per side of the structure for the slab perimeter,
+the inner foundation wall and the outer foundation wall samples (with the
+understanding that there will be four general sides of each structure).
+For the foundation pier samples, take one core from each side of two piers to
+obtain the required eight cores.
+Cores shall be taken perpendicularly from the surface to a depth of 75 mm and
+at not more than 75 mm from the adjacent construction element.
+Samples shall not be taken in areas where prejudicial conditions exist
+(e.g. below taps).
+Two composite samples (A and B) shall be taken from each site.
+After taking samples, ensure that the integrity of the chemical and vapour
+barrier (if present) is restored.
+(b) Vertical application Take two samples from each designated treatment site (e.g. the
+slab perimeter, the inner foundation wall, the outer foundation wall and the
+foundation pier). Each sample shall be a composite of 8 individual cores, obtained at
+the rate of two cores per side of the structure, for the slab perimeter, the inner
+foundation wall and the outer foundation wall samples (with the understanding that
+there will be four general sides of each structure).
+For the foundation pier samples, take one core from each side of two piers to obtain
+the required 8 cores.
+Cores shall be taken perpendicularly from the surface to a depth of 75 mm. Cores
+shall not exceed the depth of the treated soil, that is, where samples are taken, the
+chemical shall be a minimum of 75 mm deep. Cores shall be taken at not more than
+75 mm from the adjacent construction element.
+Samples shall not be taken in areas where prejudicial conditions exist (e.g. below
+taps).
+Two composite samples (A and B) shall be taken from each site.
+After taking samples ensure that the integrity of the chemical is restored.
+E2.3 Handling the sample
+Once collected, samples shall be placed into either aluminium-foil-lined paper bags or glass
+jars (sealed with aluminium foil-lined lids), identiﬁable by a label with details of the site
+(name of the chemical if known, and date applied, the address of the location sampled, and
+the date the sample was taken) and stored immediately in a cool, concealed environment
+(i.e. cooler with ice) away from direct sunlight. Samples shall be delivered to an analytical
+laboratory within 48 h of being collected and stored before analysis at either 4°C for a
+maximum of 14 days, or at —20°C for a maximum of 6 weeks from the time they were
+taken. If the above storage conditions cannot be met, sample stability data under the chosen
+conditions shall be provided.
+The chain of custody shall be recorded for all samples. A document signed by all persons
+responsible for the integrity of the samples shall accompany the sample to the laboratory.
+When the sample arrives at the laboratory, this document shall also be signed by laboratory
+personnel. It shall be maintained as part of the investigation file.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 66
+
+E3 ANALYSIS
+E3.1 Determination of chemical concentration
+A validated testing method employed by a registered testing authority, certified for analysis
+of the particular chemical in soil and sand, shall be used. Alternatively, if a registered
+testing authority is not used, validation data (recovery, precision and limit of quantitation)
+for the analytical method shall be provided for the chemical in soil equivalent to that being
+sampled.
+E3.2 Calculations
+The following calculations shall be used to determine the grams of chemical residue per
+unit surface area (i.e. grams per metre squared) for horizontal applications or per unit
+volume (i.e. grams per metre cubed) for vertical applications (these calculations also adjust
+for the total mass of the sample):
+(a) Horizontal application:
+RC 10002
+a = X
+
+1000 0a
+
+m ...E3(l)
+
+(b) Vertical application:
+_ Rc ><10003 E3(2)
+
+V 1000 sh
+
+where
+
+Ra = mass of chemical residue per unit surface area, in grams per metre
+squared (g/mz)
+Rv = mass of chemical residue per unit volume, in grams per metre cubed
+(g/m3)
+Rc = concentration of the chemical residue in soil, in milligrams per
+kilogram (mg/kg)
+mw = total moist weight of sample, or average total moist weight where
+combined samples are tested (see Paragraph E3.3), in kilograms (kg)
+C = number of cores taken (normally 15)
+r = internal radius of the coring tool, in millimetres (mm); (normally
+15 mm)
+h = depth of core taken for a vertical application, in millimetres (mm);
+(normally 75 mm)
+E3.3 Strategy
+For each site, sample A shall be tested and if the mass of chemical exceeds the lowest
+expected threshold value (LETV) shown in Table E1, the site shall be deemed to have
+passed. Otherwise, a quarter of sample B shall be pooled with a quarter of sample A and the
+composite shall be tested. The site shall be deemed to have failed if the mass of chemical is
+less than the LETV.
+E3.4 Sample remnants
+Sample remnants shall be stored under appropriate conditions as specified in
+Paragraph E2.4, for a period of at least one month and made available for independent
+analysis if requested.
+
+© Standards Australia www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+67
+
+TABLE E1
+
+AS 3660.1:2014
+
+LOWEST EXPECTED THRESHOLD VALUES (LETVs)
+FOR CHEMICAL RESIDUES IN HORIZONTAL
+AND VERTICAL CHEMICAL APPLICATIONS
+Prescribed rate of application* Lowest expected threshold valuei
+
+Termiticide Horizontal Vertical Horizontal .
+
+. . . . . . Vertical
+
+appllcatlon applicatlon application a lication /m3
+
+g[m2 g/m3 g[m2 PP g
+
+Bifenthrin 2.5 50 1.75 30
+Chlorpyrifos 50 1000 35 600
+Imidacloprid 2.5 50 1.75 30
+Fipronil 3 60 2.1 3.6
+* As per product label. Where other rates of application are permissible, the LETV is
+the same proportion of the label rates given above, i.e. 70% for horizontal application
+and 60% for vertical application
+1‘ The values are as expected within 5 days of application. When sampling occurs at a
+later date, the expected levels will be reduced. The actual rate of reduction will
+depend on the chemical’s natural rate of degradation and prevailing environmental
+conditions
+
+E4 REPORTING RESULTS
+The final report shall include the following:
+(a)
+(b)
+(C)
+(d)
+(e)
+
+(f)
+(2;)
+
+Internal radius of coring tool, i.e. r (mm).
+Total moist weight of samples A and B, i.e. mw (kg).
+Number of cores taken, i.e. C.
+Calculated mass of chemical residue for the sample(s) analysed, i.e. Ra (g/mz) for a
+horizontal application and RV (g/m3) for a vertical application.
+Certiﬁcate of analysis issued by the analytical laboratory with the following
+information:
+(i) Chromatograms showing evaluation of gas liquid chromatography (GLC) or
+high performance liquid chromatography (HPLC).
+(ii) Measure of recovery.
+(iii) Concentration of the chemical residue in sample, i.e. Rc (mg/kg soil).
+Documentation showing the chain of custody of the samples.
+An interpretation of the testing stating whether the site has passed or failed.
+
+www.standards.org.au © Standards Australia
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+AS 3660.1:2014 68
+
+APPENDIX F
+BUILDING SITE MANAGEMENT
+(Normative)
+
+To reduce the risk of subterranean termite infestation during and immediately following
+construction, the following precautions shall be taken:
+(a)
+
+(b)
+
+(C)
+
+© Standards Australia
+
+Any nest of economically important wood-feeding species of subterranean termites
+(see Note 1) found within the property boundaries, up to a distance of 50 m from the
+proposed new building work, shall have the colony eliminated prior to
+commencement of construction works.
+NOTES:
+1 Options for colony elimination are given in AS 3660.2.
+2 For a list of economically important wood-feeding species of subterranean termites, see
+Appendix B.
+3 Subterranean termite nests are generally concealed and usually difﬁcult or impracticable
+to locate. It is not unusual for several nests to be present in the grounds of a property. Due
+to their concealment and the small size of some colonies, it is often neither practicable
+nor possible to locate and destroy all the nests.
+All tree stumps and logs shall be excavated and removed from the building footprint.
+Tree roots that have been exposed within the excavation shall be removed from the
+building footprint.
+All timber offcuts, building debris, removable formwork and other waste materials
+shall be removed from the area to be treated.
+
+www.standards.org.au
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+69 AS 3660.1:2014
+
+BIBLIOGRAPHY
+
+AS
+1720 Timber structures
+1720.2 Part 2: Timber properties
+2338 Preferred dimensions of wrought metal products
+3660 Termite management
+3660.2 Part 2: In and around existing buildings and structures—Guidelines
+5604 Timber—Natural durability ratings
+AS/NZS
+1148 Timber—Nomenclature—Australian, New Zealand and imported species
+Keating, W.G., and Bolza, E., Characteristics, properties and Uses of Timbers.
+V011: South-east Asia, Northern Australia and the Paciﬁc (1982). Inkata Press,
+Melbourne, Sydney and London.
+
+
+AS 3660.1 2014 70
+
+NOTES
+
+8955 5:3 vmﬂcmhmzmHo: 5:950 Esooov tom .a< mo :o 3:51 95:35 3 cummwoo<
+
+
+71 AS 3660.10o2014
+
+NOTES
+
+8955 5:3 vmﬂcmhmzm Ho: 5:950 Esooov tom .a< mo :o 3:51 95:35 3 cummwoo<
+
+
+AS 3660.1 2014 72
+
+NOTES
+
+8955 5:3 vmﬂcmhmzmHo: 5:950 Esooov tom .a< mo :o 3:51 95:35 3 cummwoo<
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+Standards Australia
+Standards Australia develops Australian Standards® and other documents of public benefit and national interest.
+These Standards are developed through an open process of consultation and consensus, in which all interested
+parties are invited to participate. Through a Memorandum of Understanding with the Commonwealth Government,
+Standards Australia is recognized as Australia’s peak non—government national standards body.
+
+For further information visit www.standards.org.au
+Australian Standards®
+Committees of experts from industry, governments, consumers and other relevant sectors prepare Australian
+Standards. The requirements or recommendations contained in published Standards are a consensus of the views
+of representative interests and also take account of comments received from other sources. They reﬂect the latest
+scientific and industry experience. Australian Standards are kept under continuous review after publication and are
+updated regularly to take account of changing technology.
+International Involvement
+Standards Australia is responsible for ensuring the Australian viewpoint is considered in the formulation of
+International Standards and that the latest international experience is incorporated In national Standards. This role is
+vital in assisting local industry to compete In international markets. Standards Australia represents Australia at both
+the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC).
+Sales and Distribution
+Australian Standards®, Handbooks and other documents developed by Standards Australia are printed and
+distributed under licence by SAI Global Limited.
+
+
+Accessed by Ventura Homes on 03 Apr 2017 (Document currency not guaranteed when printed)
+
+For information regarding the development of Standards contact:
+Standards Australia Limited
+GPO Box 476
+Sydney NSW 2001
+Phone: 02 9237 6000
+Fax: 02 9237 6010
+Email: mail@standards.org.au
+Internet: www.standards.org.au
+
+For Information regard/279 the sale and distr/bution of Standards contact:
+SAI Global Limited
+Phone: 13 12 42
+Fax: 1300 65 49 49
+Email: sales@saiglobal.com
+
+STAN ARD_
+Australia
+
+ISBN 978 1 74342 870 2
+
+
+This page has been left intentionally blank.
+
+€955 :oEs vowgcmewzw«o: 3:250 EmEzooov tom a< mo :o 92:01 m5Ew> 
+
+>9 ummmmoo<
